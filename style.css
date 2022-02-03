@@ -1,0 +1,53 @@
+ 
+ 
+
+#textarea{
+    height: 500px;
+    background-color: #2d2d2d;
+    color:#1f83f2;
+    margin-right:20px ;
+    position: relative;
+    font-family: monospace;
+    font-size: 18px;
+    
+    margin-bottom: 30px;  
+    position: relative;
+width: 100%;
+border: none;
+padding: 10px 20px;
+border-radius: 30px;
+box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.25),
+inset 2px 2px 5px rgba(0,0, 0,0.35),
+inset -3px -3px 5px rgba( 0, 0, 0, 0.5);
+}
+ 
+#button{
+    background-color: #1f83f2;
+    box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.25),
+inset 2px 2px 5px rgba(255,255,255,0.35),
+inset -3px -3px 5px rgba( 0, 0, 0, 0.5);
+color: #fff;
+cursor: pointer;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-weight: 600px;
+font-family: cursive;
+width: 100%;
+border:none;
+position: absolute;
+top: 515px;
+height: 30px;
+font-size: 20px;
+}
+#button:hover{
+    filter: brightness(1.2);
+}
+.icon{
+    font-size: 20px;
+}
+#output{
+    width: 100%;
+    height: 500px;
+    background-color: #2d2d2d;
+    color:white;
+}
